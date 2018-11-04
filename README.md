@@ -23,5 +23,5 @@ A simple memory game built in react (create-react-app), using images inspired by
 - app will open up in your default browser
 
 
-# Author
+## Author
 *Scott Sawyer*
