@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/img/gau.jpg",
+        "name": "Gau"
+    },
+    {
+        "id": 2,
+        "image": "./assets/img/shadow.jpg",
+        "name": "Shadow"
+    },
+    {
+        "id": 3,
+        "image": "./assets/img/setzer.jpg",
+        "name": "Setzer"
+    },
+    {
+        "id": 4,
+        "image": "./assets/img/edgar.jpg",
+        "name": "Edgar"
+    },
+    {
+        "id": 5,
+        "image": "./assets/img/strago.jpg",
+        "name": "Strago"
+    },
+    {
+        "id": 6,
+        "image": "./assets/img/locke.jpg",
+        "name": "Locke"
+    },
+    {
+        "id": 7,
+        "image": "./assets/img/ghost.jpg",
+        "name": "Ghost"
+    },
+    {
+        "id": 8,
+        "image": "./assets/img/ultros.jpg",
+        "name": "Ultros"
+    },
+    {
+        "id": 9,
+        "image": "./assets/img/typhon.png",
+        "name": "Typhon"
+    },
+    {
+        "id": 10,
+        "image": "./assets/img/sabin.jpg",
+        "name": "Sabin"
+    },
+    {
+        "id": 11,
+        "image": "./assets/img/kefka.png",
+        "name": "Kefka"
+    },
+    {
+        "id": 12,
+        "image": "./assets/img/banon.jpg",
+        "name": "Banon"
+    }
+]
