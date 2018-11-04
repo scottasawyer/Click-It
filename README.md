@@ -24,4 +24,4 @@ A simple memory game built in react (create-react-app), using images inspired by
 
 
 # Author
-## *Scott Sawyer*
+*Scott Sawyer*
