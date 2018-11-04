@@ -1,8 +1,8 @@
 {
-  "name": "click-game",
+  "name": "Click-It",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://humanjboof.github.io/react-click-game/",
+  "homepage": "https://github.com/scottasawyer/Click-It",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
