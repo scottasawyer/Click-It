@@ -22,7 +22,7 @@ A simple memory game built in react (create-react-app), using images inspired by
 - yarn start
 - app will open up in your default browser
 
-## [See It Live, Deployed on Git Pages](http://scottasawyer/github.io/Click-It/)
+## [See It Live, Deployed on Git Pages](https://scottasawyer.github.io/Click-It/)
 
 
 ## Author
